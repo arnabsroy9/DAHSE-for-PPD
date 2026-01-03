@@ -30,7 +30,7 @@ The core contribution of this work is a hierarchical ensemble architecture:
     ```
 2.  **Install dependencies:**
     ```bash
-    pip install pandas numpy scikit-learn matplotlib seaborn xgboost lightgbm catboost
+    pip install -r requirements.txt
     ```
 3.  **Launch the Notebook:**
     ```bash
